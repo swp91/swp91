@@ -1,6 +1,4 @@
-I like turning everyday inconveniences
-and passing interests into things on the web
+I like making small things on the web<br />
+from everyday inconveniences and passing interests.
 
-Taking a small thought
-and making it into something I can actually use
-is what I enjoy
+Some of them even turn out to be useful.

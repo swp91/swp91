@@ -1,4 +1,2 @@
-I like making small things on the web<br />
-from everyday inconveniences and passing interests
-
-Some of them even turn out to be useful
+I like building small web stuff based on everyday annoyances or random interests</br>
+Honestly, sometimes putting up with the inconvenience is way harder than just making the thing
